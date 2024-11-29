@@ -1,7 +1,7 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Zahid Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966" data-canonical-src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 - 🔭 I’m currently working on **(Html,CSS,Bootstrap)**
 
 - 🌱 I’m currently learning **React,J.S**
